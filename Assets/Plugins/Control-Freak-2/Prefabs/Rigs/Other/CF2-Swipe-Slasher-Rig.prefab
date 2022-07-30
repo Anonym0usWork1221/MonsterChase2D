@@ -1,0 +1,6252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &110456
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22417324}
+  - 222: {fileID: 22209022}
+  - 114: {fileID: 11465362}
+  - 114: {fileID: 11434466}
+  m_Layer: 0
+  m_Name: Button-Dodge-Left-Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &121072
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22475366}
+  - 222: {fileID: 22285616}
+  - 114: {fileID: 11402882}
+  - 114: {fileID: 11464308}
+  m_Layer: 0
+  m_Name: Button-Dodge-Right-Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &137076
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22401664}
+  - 114: {fileID: 11498140}
+  m_Layer: 0
+  m_Name: Button-Dodge-Right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &152682
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22458566}
+  - 114: {fileID: 11451202}
+  m_Layer: 0
+  m_Name: TouchZone-Left-Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &165552
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22490786}
+  - 223: {fileID: 22353810}
+  - 114: {fileID: 11427390}
+  - 114: {fileID: 11484270}
+  m_Layer: 0
+  m_Name: CF2-Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &166710
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22412038}
+  - 114: {fileID: 11404092}
+  - 222: {fileID: 22255934}
+  - 114: {fileID: 11414794}
+  m_Layer: 0
+  m_Name: CF2-Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &169176
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22404108}
+  - 222: {fileID: 22240258}
+  - 114: {fileID: 11488468}
+  - 114: {fileID: 11455368}
+  m_Layer: 0
+  m_Name: Pause-Sprite
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &177240
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22491308}
+  - 114: {fileID: 11459856}
+  m_Layer: 0
+  m_Name: TouchZone-Right-Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &178396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 485952}
+  - 114: {fileID: 11403108}
+  m_Layer: 0
+  m_Name: CF2-Swipe-Slasher-Rig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &179018
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22498368}
+  - 114: {fileID: 11453252}
+  m_Layer: 0
+  m_Name: Button-Dodge-Left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &199406
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 22474000}
+  - 114: {fileID: 11472232}
+  m_Layer: 0
+  m_Name: Pause
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &485952
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 178396}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22490786}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11402882
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: a12c12c17cb00fd498f464864871fd20, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &11403108
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 178396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7d3c0703122fd4b813bd6bb7cc734c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoActivate: 1
+  overrideActiveRig: 1
+  hideWhenDisactivated: 1
+  hideWhenTouchScreenIsUnused: 1
+  hideWhenTouchScreenIsUnusedDelay: 10
+  hideWhenGamepadIsActivated: 1
+  hideWhenGamepadIsActivatedDelay: 5
+  fingerRadiusInCm: .25
+  swipeOverFromNothing: 1
+  controlBaseAlphaAnimDuration: .5
+  animatorMaxAnimDuration: .200000003
+  ninetyDegTurnMouseDelta: 500
+  ninetyDegTurnTouchSwipeInCm: 4
+  ninetyDegTurnAnalogDuration: .75
+  virtualScreenDiameterInches: 4
+  scrollStepsPerNinetyDegTurn: 10
+  joysticks:
+    list:
+    - name: LeftStick
+      disableOnMobile: 0
+      joystickConfig:
+        analogDeadZone: .100000001
+        analogEndZone: 1
+        analogRangeStartValue: 0
+        digitalEnterThresh: .5
+        digitalLeaveThresh: .400000006
+        digitalToAnalogPressSpeed: .5
+        digitalToAnalogReleaseSpeed: .5
+        useRamp: 0
+        ramp:
+          serializedVersion: 2
+          m_Curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .5
+            value: .5
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+        clampMode: 0
+        perAxisDeadzones: 0
+        stickMode: 0
+        originalDirResetMode: 0
+        angularMagnet: .5
+        digitalDetectionMode: 0
+        blockX: 0
+        blockY: 0
+      keyboardUp: 119
+      keyboardRight: 100
+      keyboardDown: 115
+      keyboardLeft: 97
+      joyStateBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Horizontal
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        vertAxisBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Vertical
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 77000000
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 64000000
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 73000000
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 61000000
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    - name: RightStick
+      disableOnMobile: 0
+      joystickConfig:
+        analogDeadZone: .100000001
+        analogEndZone: 1
+        analogRangeStartValue: 0
+        digitalEnterThresh: .5
+        digitalLeaveThresh: .400000006
+        digitalToAnalogPressSpeed: .5
+        digitalToAnalogReleaseSpeed: .5
+        useRamp: 0
+        ramp:
+          serializedVersion: 2
+          m_Curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .5
+            value: .5
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+        clampMode: 0
+        perAxisDeadzones: 0
+        stickMode: 0
+        originalDirResetMode: 0
+        angularMagnet: .5
+        digitalDetectionMode: 0
+        blockX: 0
+        blockY: 0
+      keyboardUp: 105
+      keyboardRight: 108
+      keyboardDown: 107
+      keyboardLeft: 106
+      joyStateBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Horizontal
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        vertAxisBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Vertical
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 77000000
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 64000000
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 73000000
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 61000000
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+  axes:
+    list:
+    - name: Horizontal
+      axisType: 1
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 97
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 100
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Vertical
+      axisType: 1
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 115
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 119
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Mouse X
+      axisType: 4
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 0
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Mouse Y
+      axisType: 4
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 0
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Mouse Scroll Wheel
+      axisType: 3
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 0
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Mouse Scroll Wheel Secondary
+      axisType: 3
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 0
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Right-Slash-D
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 103
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Right-Slash-L
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 102
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Right-Slash-R
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 104
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Right-Slash-U
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 116
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Right-Stab
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 114
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Left-Slash-D
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 115
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Left-Slash-L
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 97
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Left-Slash-R
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 100
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Left-Slash-U
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 119
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Left-Stab
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 101
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Dodge-Right
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 121
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+    - name: Dodge-Left
+      axisType: 2
+      deltaMode: 1
+      snap: 0
+      scale: 1
+      affectSourceKeys: 1
+      affectedKeyPositive: 0
+      affectedKeyNegative: 0
+      keyboardPositive: 113
+      keyboardPositiveAlt0: 0
+      keyboardPositiveAlt1: 0
+      keyboardPositiveAlt2: 0
+      keyboardNegative: 0
+      keyboardNegativeAlt0: 0
+      keyboardNegativeAlt1: 0
+      keyboardNegativeAlt2: 0
+      analogToDigitalThresh: .125
+      rawSmoothingTime: 0
+      smoothingTime: 0
+      digitalToAnalogAccelTime: .25
+      digitalToAnalogDecelTime: .25
+      digitalToScrollAutoRepeat: 1
+      digitalToScrollRepeatInterval: .5
+      digitalToScrollDelay: 1
+      scrollToAnalogSmoothingTime: .100000001
+      scrollToAnalogStepDuration: .100000001
+      scrollToDeltaSmoothingTime: .100000001
+  keyboardBlockedCodes: 
+  dpadConfig:
+    analogDeadZone: .300000012
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .200000003
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    clampMode: 0
+    perAxisDeadzones: 0
+    stickMode: 2
+    originalDirResetMode: 0
+    angularMagnet: 0
+    digitalDetectionMode: 1
+    blockX: 0
+    blockY: 0
+  leftStickConfig:
+    analogDeadZone: .300000012
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .200000003
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    clampMode: 0
+    perAxisDeadzones: 0
+    stickMode: 0
+    originalDirResetMode: 0
+    angularMagnet: .5
+    digitalDetectionMode: 1
+    blockX: 0
+    blockY: 0
+  rightStickConfig:
+    analogDeadZone: .300000012
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .200000003
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    clampMode: 0
+    perAxisDeadzones: 0
+    stickMode: 0
+    originalDirResetMode: 0
+    angularMagnet: .5
+    digitalDetectionMode: 1
+    blockX: 0
+    blockY: 0
+  leftTriggerAnalogConfig:
+    analogDeadZone: .200000003
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .200000003
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  rightTriggerAnalogConfig:
+    analogDeadZone: .200000003
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .200000003
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  gamepads:
+  - enabled: 0
+    digiFaceDownBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceRightBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceLeftBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceUpBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiStartBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiSelectBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    analogL2Binding:
+      enabled: 0
+      targetList: []
+    analogR2Binding:
+      enabled: 0
+      targetList: []
+    leftStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    rightStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    dpadStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+  - enabled: 0
+    digiFaceDownBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceRightBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceLeftBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceUpBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiStartBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiSelectBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    analogL2Binding:
+      enabled: 0
+      targetList: []
+    analogR2Binding:
+      enabled: 0
+      targetList: []
+    leftStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    rightStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    dpadStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+  - enabled: 0
+    digiFaceDownBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceRightBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceLeftBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceUpBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiStartBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiSelectBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    analogL2Binding:
+      enabled: 0
+      targetList: []
+    analogR2Binding:
+      enabled: 0
+      targetList: []
+    leftStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    rightStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    dpadStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+  - enabled: 0
+    digiFaceDownBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceRightBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceLeftBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiFaceUpBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiStartBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiSelectBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR1Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR2Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiL3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    digiR3Binding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    analogL2Binding:
+      enabled: 0
+      targetList: []
+    analogR2Binding:
+      enabled: 0
+      targetList: []
+    leftStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    rightStickStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    dpadStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+  anyGamepad:
+    enabled: 1
+    digiFaceDownBinding:
+      enabled: 1
+      axisList:
+      - axisName: Left-Stab
+        axisPositiveSide: 1
+      keyList: 
+    digiFaceRightBinding:
+      enabled: 1
+      axisList:
+      - axisName: Right-Stab
+        axisPositiveSide: 1
+      keyList: 
+    digiFaceLeftBinding:
+      enabled: 1
+      axisList:
+      - axisName: Left-Slash-R
+        axisPositiveSide: 1
+      keyList: 
+    digiFaceUpBinding:
+      enabled: 1
+      axisList:
+      - axisName: Right-Slash-L
+        axisPositiveSide: 1
+      keyList: 
+    digiStartBinding:
+      enabled: 1
+      axisList: []
+      keyList: 1b000000
+    digiSelectBinding:
+      enabled: 1
+      axisList: []
+      keyList: 1b000000
+    digiL1Binding:
+      enabled: 1
+      axisList:
+      - axisName: Dodge-Left
+        axisPositiveSide: 1
+      keyList: 
+    digiR1Binding:
+      enabled: 1
+      axisList:
+      - axisName: Dodge-Right
+        axisPositiveSide: 1
+      keyList: 
+    digiL2Binding:
+      enabled: 1
+      axisList:
+      - axisName: Dodge-Left
+        axisPositiveSide: 1
+      keyList: 
+    digiR2Binding:
+      enabled: 1
+      axisList:
+      - axisName: Dodge-Right
+        axisPositiveSide: 1
+      keyList: 
+    digiL3Binding:
+      enabled: 1
+      axisList:
+      - axisName: Left-Stab
+        axisPositiveSide: 1
+      keyList: 
+    digiR3Binding:
+      enabled: 1
+      axisList:
+      - axisName: Right-Stab
+        axisPositiveSide: 1
+      keyList: 
+    analogL2Binding:
+      enabled: 0
+      targetList: []
+    analogR2Binding:
+      enabled: 0
+      targetList: []
+    leftStickStateBinding:
+      enabled: 1
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 1
+        bindDiagonals: 0
+        bindMode: 3
+        dirBindingU:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-U
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-R
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-D
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-L
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    rightStickStateBinding:
+      enabled: 1
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 1
+        bindDiagonals: 0
+        bindMode: 3
+        dirBindingU:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-U
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-R
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-D
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-L
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+    dpadStateBinding:
+      enabled: 0
+      horzAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Horizontal
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      vertAxisBinding:
+        enabled: 0
+        targetList:
+        - separateAxes: 0
+          singleAxis: Vertical
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      dirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 77000000
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 64000000
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 73000000
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 61000000
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+  rigSwitches:
+    list: []
+  autoInputList:
+    list: []
+  tilt:
+    tiltState:
+      analogRange: {x: 25, y: 25}
+    disablingConditions:
+      mobileModeRelation: 0
+      disableWhenTouchScreenInactive: 0
+      disableWhenCursorIsUnlocked: 0
+      switchList: []
+    rollAnalogConfig:
+      analogDeadZone: .300000012
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+    pitchAnalogConfig:
+      analogDeadZone: .300000012
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+    rollBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Horizontal
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    pitchBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Vertical
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    rollLeftBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    rollRightBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    pitchForwardBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    pitchBackwardBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+  mouseConfig:
+    horzDeltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse X
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    vertDeltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse Y
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+  scrollWheel:
+    horzScrollDeltaBinding:
+      enabled: 1
+      deltaBinding:
+        enabled: 1
+        targetList:
+        - separateAxes: 0
+          singleAxis: Mouse Scroll Wheel Secondary
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      positiveDigitalBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      negativeDigitalBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+    vertScrollDeltaBinding:
+      enabled: 1
+      deltaBinding:
+        enabled: 1
+        targetList:
+        - separateAxes: 0
+          singleAxis: Mouse Scroll Wheel
+          reverseSingleAxis: 0
+          positiveAxis: 
+          negativeAxis: 
+          positiveAxisAsPositive: 1
+          negativeAxisAsPositive: 1
+      positiveDigitalBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      negativeDigitalBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+--- !u!114 &11404092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81705b1c486dc3b468f7cc553a648228, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoConnectToRig: 1
+  rig: {fileID: 11403108}
+--- !u!114 &11414794
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd0df8f6cb3d9d74abaf8582e7b07070, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+--- !u!114 &11427390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 165552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 480}
+  m_ScreenMatchMode: 1
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &11434466
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058d21773499e78468e8aa6a47f82959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoConnectToSource: 1
+  sourceControl: {fileID: 11453252}
+  spriteNeutral:
+    enabled: 1
+    sprite: {fileID: 21300000, guid: 03c9cc9f444676e43bec7bd0a279c803, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spritePressed:
+    enabled: 1
+    sprite: {fileID: 21300000, guid: 03c9cc9f444676e43bec7bd0a279c803, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.25
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 1
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggled:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: 03c9cc9f444676e43bec7bd0a279c803, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.10000002
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggledAndPressed:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: 03c9cc9f444676e43bec7bd0a279c803, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.29999995
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+--- !u!114 &11451202
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8322b2ff416cf394ea0cceb55592f7b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ignoreFingerRadius: 0
+  cantBeControlledDirectly: 0
+  shareTouch: 0
+  dontAcceptSharedTouches: 0
+  canBeSwipedOver: 0
+  restictSwipeOverTargets: 0
+  swipeOverOthersMode: 2
+  swipeOffMode: 2
+  swipeOverTargetList: []
+  shape: 0
+  disablingConditions:
+    mobileModeRelation: 0
+    disableWhenTouchScreenInactive: 1
+    disableWhenCursorIsUnlocked: 0
+    switchList: []
+  customThresh:
+    tapMoveThreshCm: .25
+    tapPosThreshCm: .5
+    dragThreshCm: .5
+    scrollThreshCm: .5
+    scrollMagnetFactor: .100000001
+    swipeSegLenCm: .5
+    swipeJoystickRadCm: 1
+    tapMaxDur: .5
+    multiTapMaxTimeGap: 1
+    longPressMinTime: .5
+    longTapMaxDuration: 1
+    pinchDistThreshCm: .200000003
+    pinchAnalogRangeCm: 1.5
+    pinchDeltaRangeCm: 2.5
+    pinchDigitalThreshCm: 1
+    pinchScrollStepCm: .5
+    pinchScrollMagnet: 0
+    twistMinDistCm: .5
+    twistAngleThresh: 2
+    twistAnalogRange: 45
+    twistDeltaRange: 90
+    twistDigitalThresh: 25
+    twistScrollStep: 30
+    twistScrollMagnet: 0
+    multiFingerTapMaxFingerDistCm: 3
+  maxFingers: 1
+  touchSmoothing: .5
+  strictMultiTouch: 0
+  strictMultiTouchTime: .5
+  freezeTwistWhenTooClose: 0
+  noPinchAfterDrag: 0
+  noPinchAfterTwist: 0
+  noTwistAfterDrag: 0
+  noTwistAfterPinch: 0
+  noDragAfterPinch: 0
+  noDragAfterTwist: 0
+  startPinchWhenTwisting: 0
+  startPinchWhenDragging: 0
+  startDragWhenPinching: 0
+  startDragWhenTwisting: 0
+  startTwistWhenDragging: 0
+  startTwistWhenPinching: 0
+  gestureDetectionOrder: 0
+  multiFingerConfigs:
+  - binding:
+      enabled: 1
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 1
+        axisList:
+        - axisName: Left-Stab
+          axisPositiveSide: 1
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 1
+        bindDiagonals: 0
+        bindMode: 3
+        dirBindingU:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-U
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-R
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-D
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 1
+          axisList:
+          - axisName: Left-Slash-L
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  - binding:
+      enabled: 0
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  - binding:
+      enabled: 0
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  separateFingersAsEmuTouchesBinding:
+    enabled: 0
+  twistAnalogConfig:
+    analogDeadZone: .100000001
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .400000006
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  pinchAnalogConfig:
+    analogDeadZone: .100000001
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .400000006
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  twistAnalogBinding:
+    enabled: 0
+    targetList: []
+  twistDeltaBinding:
+    enabled: 0
+    targetList: []
+  twistRightDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  twistLeftDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  pinchScrollDeltaBinding:
+    enabled: 0
+    deltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse Scroll Wheel
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    positiveDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    negativeDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+  twistScrollDeltaBinding:
+    enabled: 0
+    deltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse Scroll Wheel
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    positiveDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    negativeDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+  pinchAnalogBinding:
+    enabled: 0
+    targetList: []
+  pinchDeltaBinding:
+    enabled: 0
+    targetList: []
+  pinchDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  spreadDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  emuWithKeys: 0
+  emuKeyOneFinger: 0
+  emuKeyTwoFingers: 0
+  emuKeyThreeFingers: 0
+  emuKeySwipeU: 0
+  emuKeySwipeR: 0
+  emuKeySwipeD: 0
+  emuKeySwipeL: 0
+  emuKeyTwistR: 0
+  emuKeyTwistL: 0
+  emuKeyPinch: 0
+  emuKeySpread: 0
+  emuMouseTwoFingersKey: 306
+  emuMouseTwistKey: 304
+  emuMousePinchKey: 304
+  emuMouseThreeFingersKey: 0
+  emuMousePinchAxis: 0
+  emuMouseTwistAxis: 1
+  emuKeySwipeSpeed: .25
+  emuKeyPinchSpeed: .25
+  emuKeyTwistSpeed: 45
+  mouseEmuTwistScreenFactor: .300000012
+--- !u!114 &11453252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 179018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200e84c2a433bd44a81bed0f6a4a052c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ignoreFingerRadius: 0
+  cantBeControlledDirectly: 0
+  shareTouch: 0
+  dontAcceptSharedTouches: 0
+  canBeSwipedOver: 0
+  restictSwipeOverTargets: 0
+  swipeOverOthersMode: 2
+  swipeOffMode: 2
+  swipeOverTargetList: []
+  shape: 2
+  disablingConditions:
+    mobileModeRelation: 0
+    disableWhenTouchScreenInactive: 1
+    disableWhenCursorIsUnlocked: 0
+    switchList: []
+  fadeOutWhenReleased: 1
+  startFadedOut: 1
+  fadeOutTargetAlpha: 0
+  fadeInDuration: .200000003
+  fadeOutDelay: .5
+  fadeOutDuration: .5
+  centerOnDirectTouch: 1
+  centerOnIndirectTouch: 1
+  centerWhenFollowing: 1
+  stickyMode: 0
+  clampInsideRegion: 1
+  clampInsideCanvas: 1
+  returnToStartingPosition: 0
+  directInitialVector: {x: 0, y: 0}
+  indirectInitialVector: {x: 0, y: 0}
+  touchSmoothing: .5
+  originSmoothTime: .5
+  targetDynamicRegion: {fileID: 0}
+  toggle: 0
+  toggleOnAction: 0
+  toggleOffAction: 1
+  toggleOffWhenHiding: 0
+  autoToggleOff: 0
+  autoToggleOffTimeOut: 1
+  linkToggleToRigSwitch: 0
+  toggleRigSwitchName: 
+  pressBinding:
+    enabled: 1
+    axisList:
+    - axisName: Dodge-Left
+      axisPositiveSide: 1
+    keyList: 
+  toggleOnlyBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+--- !u!114 &11455368
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058d21773499e78468e8aa6a47f82959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoConnectToSource: 1
+  sourceControl: {fileID: 11472232}
+  spriteNeutral:
+    enabled: 1
+    sprite: {fileID: 21300000, guid: f52361e597e182b4686851660b40ab3a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spritePressed:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: f52361e597e182b4686851660b40ab3a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.25
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggled:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: f52361e597e182b4686851660b40ab3a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.10000002
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggledAndPressed:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: f52361e597e182b4686851660b40ab3a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.29999995
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+--- !u!114 &11459856
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8322b2ff416cf394ea0cceb55592f7b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ignoreFingerRadius: 0
+  cantBeControlledDirectly: 0
+  shareTouch: 0
+  dontAcceptSharedTouches: 0
+  canBeSwipedOver: 0
+  restictSwipeOverTargets: 0
+  swipeOverOthersMode: 2
+  swipeOffMode: 2
+  swipeOverTargetList: []
+  shape: 0
+  disablingConditions:
+    mobileModeRelation: 0
+    disableWhenTouchScreenInactive: 1
+    disableWhenCursorIsUnlocked: 0
+    switchList: []
+  customThresh:
+    tapMoveThreshCm: .25
+    tapPosThreshCm: .5
+    dragThreshCm: .5
+    scrollThreshCm: .5
+    scrollMagnetFactor: .100000001
+    swipeSegLenCm: .5
+    swipeJoystickRadCm: 1
+    tapMaxDur: .5
+    multiTapMaxTimeGap: 1
+    longPressMinTime: .5
+    longTapMaxDuration: 1
+    pinchDistThreshCm: .200000003
+    pinchAnalogRangeCm: 1.5
+    pinchDeltaRangeCm: 2.5
+    pinchDigitalThreshCm: 1
+    pinchScrollStepCm: .5
+    pinchScrollMagnet: 0
+    twistMinDistCm: .5
+    twistAngleThresh: 2
+    twistAnalogRange: 45
+    twistDeltaRange: 90
+    twistDigitalThresh: 25
+    twistScrollStep: 30
+    twistScrollMagnet: 0
+    multiFingerTapMaxFingerDistCm: 3
+  maxFingers: 1
+  touchSmoothing: .5
+  strictMultiTouch: 0
+  strictMultiTouchTime: .5
+  freezeTwistWhenTooClose: 0
+  noPinchAfterDrag: 0
+  noPinchAfterTwist: 0
+  noTwistAfterDrag: 0
+  noTwistAfterPinch: 0
+  noDragAfterPinch: 0
+  noDragAfterTwist: 0
+  startPinchWhenTwisting: 0
+  startPinchWhenDragging: 0
+  startDragWhenPinching: 0
+  startDragWhenTwisting: 0
+  startTwistWhenDragging: 0
+  startTwistWhenPinching: 0
+  gestureDetectionOrder: 0
+  multiFingerConfigs:
+  - binding:
+      enabled: 1
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 1
+        axisList:
+        - axisName: Right-Stab
+          axisPositiveSide: 1
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 1
+        bindDiagonals: 0
+        bindMode: 3
+        dirBindingU:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-U
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-R
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-D
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 1
+          axisList:
+          - axisName: Right-Slash-L
+            axisPositiveSide: 1
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  - binding:
+      enabled: 0
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  - binding:
+      enabled: 0
+      rawPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longPressBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      tapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      doubleTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      longTapBinding:
+        enabled: 0
+        axisList: []
+        keyList: 
+      normalPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressSwipeDirBinding:
+        enabled: 0
+        bindDiagonals: 1
+        bindMode: 0
+        dirBindingU:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDR:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingD:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingDL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingUL:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingN:
+          enabled: 0
+          axisList: []
+          keyList: 
+        dirBindingAny:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeHorzAxisBinding:
+        enabled: 0
+        targetList: []
+      longPressSwipeVertAxisBinding:
+        enabled: 0
+        targetList: []
+      normalPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      normalPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollHorzBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      longPressScrollVertBinding:
+        enabled: 0
+        deltaBinding:
+          enabled: 0
+          targetList:
+          - separateAxes: 0
+            singleAxis: Mouse Scroll Wheel
+            reverseSingleAxis: 0
+            positiveAxis: 
+            negativeAxis: 
+            positiveAxisAsPositive: 1
+            negativeAxisAsPositive: 1
+        positiveDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+        negativeDigitalBinding:
+          enabled: 0
+          axisList: []
+          keyList: 
+      rawPressMousePosBinding:
+        enabled: 0
+        priority: 10
+      normalPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressMousePosBinding:
+        enabled: 0
+        priority: 20
+      tapMousePosBinding:
+        enabled: 0
+        priority: 30
+      doubleTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      longTapMousePosBinding:
+        enabled: 0
+        priority: 30
+      normalPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      longPressSwipeMousePosBinding:
+        enabled: 0
+        priority: 20
+      rawPressEmuTouchBinding:
+        enabled: 0
+      normalPressEmuTouchBinding:
+        enabled: 0
+      longPressEmuTouchBinding:
+        enabled: 0
+      normalPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+      longPressSwipeJoyBinding:
+        enabled: 0
+        horzAxisBinding:
+          enabled: 0
+          targetList: []
+        vertAxisBinding:
+          enabled: 0
+          targetList: []
+        dirBinding:
+          enabled: 0
+          bindDiagonals: 1
+          bindMode: 0
+          dirBindingU:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDR:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingD:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingDL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingUL:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingN:
+            enabled: 0
+            axisList: []
+            keyList: 
+          dirBindingAny:
+            enabled: 0
+            axisList: []
+            keyList: 
+    driveOtherControl: 0
+    controlToDriveOnRawPress: {fileID: 0}
+    controlToDriveOnNormalPress: {fileID: 0}
+    controlToDriveOnLongPress: {fileID: 0}
+    controlToDriveOnNormalPressSwipe: {fileID: 0}
+    controlToDriveOnNormalPressSwipeU: {fileID: 0}
+    controlToDriveOnNormalPressSwipeR: {fileID: 0}
+    controlToDriveOnNormalPressSwipeD: {fileID: 0}
+    controlToDriveOnNormalPressSwipeL: {fileID: 0}
+    controlToDriveOnLongPressSwipe: {fileID: 0}
+    controlToDriveOnLongPressSwipeU: {fileID: 0}
+    controlToDriveOnLongPressSwipeR: {fileID: 0}
+    controlToDriveOnLongPressSwipeD: {fileID: 0}
+    controlToDriveOnLongPressSwipeL: {fileID: 0}
+    touchConfig:
+      maxTapCount: 1
+      cleanTapsOnly: 1
+      detectLongPress: 0
+      detectLongTap: 0
+      endLongPressWhenMoved: 0
+      endLongPressWhenSwiped: 0
+      dirMode: 0
+      swipeOriginalDirResetMode: 1
+      swipeConstraint: 0
+      swipeDirConstraint: 0
+      scrollConstraint: 0
+    swipeJoyConfig:
+      analogDeadZone: .100000001
+      analogEndZone: 1
+      analogRangeStartValue: 0
+      digitalEnterThresh: .5
+      digitalLeaveThresh: .400000006
+      digitalToAnalogPressSpeed: .5
+      digitalToAnalogReleaseSpeed: .5
+      useRamp: 0
+      ramp:
+        serializedVersion: 2
+        m_Curve:
+        - time: 0
+          value: 0
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: .5
+          value: .5
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        - time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+      clampMode: 0
+      perAxisDeadzones: 0
+      stickMode: 0
+      originalDirResetMode: 0
+      angularMagnet: .5
+      digitalDetectionMode: 0
+      blockX: 0
+      blockY: 0
+  separateFingersAsEmuTouchesBinding:
+    enabled: 0
+  twistAnalogConfig:
+    analogDeadZone: .100000001
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .400000006
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  pinchAnalogConfig:
+    analogDeadZone: .100000001
+    analogEndZone: 1
+    analogRangeStartValue: 0
+    digitalEnterThresh: .5
+    digitalLeaveThresh: .400000006
+    digitalToAnalogPressSpeed: .5
+    digitalToAnalogReleaseSpeed: .5
+    useRamp: 0
+    ramp:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .5
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  twistAnalogBinding:
+    enabled: 0
+    targetList: []
+  twistDeltaBinding:
+    enabled: 0
+    targetList: []
+  twistRightDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  twistLeftDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  pinchScrollDeltaBinding:
+    enabled: 0
+    deltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse Scroll Wheel
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    positiveDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    negativeDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+  twistScrollDeltaBinding:
+    enabled: 0
+    deltaBinding:
+      enabled: 0
+      targetList:
+      - separateAxes: 0
+        singleAxis: Mouse Scroll Wheel
+        reverseSingleAxis: 0
+        positiveAxis: 
+        negativeAxis: 
+        positiveAxisAsPositive: 1
+        negativeAxisAsPositive: 1
+    positiveDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+    negativeDigitalBinding:
+      enabled: 0
+      axisList: []
+      keyList: 
+  pinchAnalogBinding:
+    enabled: 0
+    targetList: []
+  pinchDeltaBinding:
+    enabled: 0
+    targetList: []
+  pinchDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  spreadDigitalBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+  emuWithKeys: 0
+  emuKeyOneFinger: 0
+  emuKeyTwoFingers: 0
+  emuKeyThreeFingers: 0
+  emuKeySwipeU: 0
+  emuKeySwipeR: 0
+  emuKeySwipeD: 0
+  emuKeySwipeL: 0
+  emuKeyTwistR: 0
+  emuKeyTwistL: 0
+  emuKeyPinch: 0
+  emuKeySpread: 0
+  emuMouseTwoFingersKey: 306
+  emuMouseTwistKey: 304
+  emuMousePinchKey: 304
+  emuMouseThreeFingersKey: 0
+  emuMousePinchAxis: 0
+  emuMouseTwistAxis: 1
+  emuKeySwipeSpeed: .25
+  emuKeyPinchSpeed: .25
+  emuKeyTwistSpeed: 45
+  mouseEmuTwistScreenFactor: .300000012
+--- !u!114 &11464308
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058d21773499e78468e8aa6a47f82959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoConnectToSource: 1
+  sourceControl: {fileID: 11498140}
+  spriteNeutral:
+    enabled: 1
+    sprite: {fileID: 21300000, guid: a12c12c17cb00fd498f464864871fd20, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spritePressed:
+    enabled: 1
+    sprite: {fileID: 21300000, guid: a12c12c17cb00fd498f464864871fd20, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.25
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 1
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggled:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: a12c12c17cb00fd498f464864871fd20, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.10000002
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+  spriteToggledAndPressed:
+    enabled: 0
+    sprite: {fileID: 21300000, guid: a12c12c17cb00fd498f464864871fd20, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    scale: 1.29999995
+    rotation: 0
+    offset: {x: 0, y: 0}
+    resetOffset: 0
+    resetRotation: 0
+    resetScale: 0
+    duration: .100000001
+    baseTransitionTime: .100000001
+    colorTransitionFactor: 1
+    scaleTransitionFactor: 1
+    rotationTransitionFactor: 1
+    offsetTransitionFactor: 1
+--- !u!114 &11465362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 03c9cc9f444676e43bec7bd0a279c803, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &11472232
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200e84c2a433bd44a81bed0f6a4a052c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ignoreFingerRadius: 0
+  cantBeControlledDirectly: 0
+  shareTouch: 0
+  dontAcceptSharedTouches: 0
+  canBeSwipedOver: 0
+  restictSwipeOverTargets: 0
+  swipeOverOthersMode: 2
+  swipeOffMode: 2
+  swipeOverTargetList: []
+  shape: 2
+  disablingConditions:
+    mobileModeRelation: 0
+    disableWhenTouchScreenInactive: 0
+    disableWhenCursorIsUnlocked: 0
+    switchList: []
+  fadeOutWhenReleased: 1
+  startFadedOut: 1
+  fadeOutTargetAlpha: 0
+  fadeInDuration: .200000003
+  fadeOutDelay: .5
+  fadeOutDuration: .5
+  centerOnDirectTouch: 1
+  centerOnIndirectTouch: 1
+  centerWhenFollowing: 1
+  stickyMode: 0
+  clampInsideRegion: 1
+  clampInsideCanvas: 1
+  returnToStartingPosition: 0
+  directInitialVector: {x: 0, y: 0}
+  indirectInitialVector: {x: 0, y: 0}
+  touchSmoothing: .5
+  originSmoothTime: .5
+  targetDynamicRegion: {fileID: 0}
+  toggle: 0
+  toggleOnAction: 0
+  toggleOffAction: 1
+  toggleOffWhenHiding: 0
+  autoToggleOff: 0
+  autoToggleOffTimeOut: 1
+  linkToggleToRigSwitch: 0
+  toggleRigSwitchName: 
+  pressBinding:
+    enabled: 1
+    axisList: []
+    keyList: 1b000000
+  toggleOnlyBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+--- !u!114 &11484270
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 165552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &11488468
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: f52361e597e182b4686851660b40ab3a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &11498140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200e84c2a433bd44a81bed0f6a4a052c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ignoreFingerRadius: 0
+  cantBeControlledDirectly: 0
+  shareTouch: 0
+  dontAcceptSharedTouches: 0
+  canBeSwipedOver: 0
+  restictSwipeOverTargets: 0
+  swipeOverOthersMode: 2
+  swipeOffMode: 2
+  swipeOverTargetList: []
+  shape: 2
+  disablingConditions:
+    mobileModeRelation: 0
+    disableWhenTouchScreenInactive: 1
+    disableWhenCursorIsUnlocked: 0
+    switchList: []
+  fadeOutWhenReleased: 1
+  startFadedOut: 1
+  fadeOutTargetAlpha: 0
+  fadeInDuration: .200000003
+  fadeOutDelay: .5
+  fadeOutDuration: .5
+  centerOnDirectTouch: 1
+  centerOnIndirectTouch: 1
+  centerWhenFollowing: 1
+  stickyMode: 0
+  clampInsideRegion: 1
+  clampInsideCanvas: 1
+  returnToStartingPosition: 0
+  directInitialVector: {x: 0, y: 0}
+  indirectInitialVector: {x: 0, y: 0}
+  touchSmoothing: .5
+  originSmoothTime: .5
+  targetDynamicRegion: {fileID: 0}
+  toggle: 0
+  toggleOnAction: 0
+  toggleOffAction: 1
+  toggleOffWhenHiding: 0
+  autoToggleOff: 0
+  autoToggleOffTimeOut: 1
+  linkToggleToRigSwitch: 0
+  toggleRigSwitchName: 
+  pressBinding:
+    enabled: 1
+    axisList:
+    - axisName: Dodge-Right
+      axisPositiveSide: 1
+    keyList: 
+  toggleOnlyBinding:
+    enabled: 0
+    axisList: []
+    keyList: 
+--- !u!222 &22209022
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110456}
+--- !u!222 &22240258
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169176}
+--- !u!222 &22255934
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166710}
+--- !u!222 &22285616
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121072}
+--- !u!223 &22353810
+Canvas:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 165552}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 1
+  m_SortingLayerID: 0
+  m_SortingOrder: 100
+--- !u!224 &22401664
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 50}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22475366}
+  m_Father: {fileID: 22412038}
+  m_RootOrder: 2
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -80, y: 293}
+  m_SizeDelta: {x: 99.9689941, y: 99.9689941}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22404108
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169176}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22474000}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22412038
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166710}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22458566}
+  - {fileID: 22491308}
+  - {fileID: 22401664}
+  - {fileID: 22498368}
+  - {fileID: 22474000}
+  m_Father: {fileID: 22490786}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22417324
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110456}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22498368}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22458566
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152682}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 75}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22412038}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: .5, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22474000
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199406}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22404108}
+  m_Father: {fileID: 22412038}
+  m_RootOrder: 4
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 36, y: -36}
+  m_SizeDelta: {x: 56, y: 56}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22475366
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121072}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22401664}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22490786
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 165552}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 22412038}
+  m_Father: {fileID: 485952}
+  m_RootOrder: 0
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!224 &22491308
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 75}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22412038}
+  m_RootOrder: 1
+  m_AnchorMin: {x: .5, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -1.4667381e-05}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: .5, y: .5}
+--- !u!224 &22498368
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 179018}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 50}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22417324}
+  m_Father: {fileID: 22412038}
+  m_RootOrder: 3
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 99, y: 293}
+  m_SizeDelta: {x: 99.9689941, y: 99.9689941}
+  m_Pivot: {x: .5, y: .5}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: virtualScreenDiameterInches
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 178396}
+  m_IsPrefabParent: 1

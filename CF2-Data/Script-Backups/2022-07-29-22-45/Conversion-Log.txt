@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Scripts\Player.cs]
+	Fragments : 2
+		[ 0] : Line:   47	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   78	InputMethod   GetButtonDown       	("Jump")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [E:/unity Projects/MonsterChase2D/CF2-Data/Script-Backups/2022-07-29-22-45\Assets-After/\Scripts\Player.cs] to [E:/unity Projects/MonsterChase2D/Assets/\Scripts\Player.cs]
+
+Overwriting COMPLETED!
